@@ -1,0 +1,17 @@
+input{
+    margin: 20px;
+    height: 30px;
+}
+body{
+    font-size: 30px;
+}
+span{
+    font-weight: 900
+}
+button{
+    height: 40px;
+    margin: 5px;
+}
+#sort_button{
+    display: none;
+}
